@@ -1,13 +1,12 @@
 ## Hi there 👋
 
 
+_I'm Nikhil, a BTech student at IITR and an ardent open source lover. I love everything related to computer graphics and linux distros. Have some unpopular beliefs on everything related to computers. People may hate me for this but Gnome > KDE for everything_ :> <br/> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my OpenGL based renderer lucid_pixel.
-- 🌱 I’m currently learning OpenGL, Vulkan and computer graphics in general.
-- 💬 Ask me about anything Linux and Computer Graphics related.
-- 📫 Reach me at: nikhilchouhan2002@gmail.com
+- 🔭 _I’m currently working on my OpenGL based renderer lucid_pixel._
+- 🌱 _I’m currently learning OpenGL, Vulkan and computer graphics in general._
+- 💬 _Ask me about anything Linux and Computer Graphics related._
+- 📫 _Reach me at: nikhilchouhan2002@gmail.com_
 
 
 
